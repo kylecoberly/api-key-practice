@@ -1,0 +1,15 @@
+{
+  "name": "apikeys",
+  "version": "1.0.0",
+  "description": "Practicing api keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Coberly",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4"
+  }
+}
